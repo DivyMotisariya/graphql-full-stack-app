@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "root",
+    "MONGO_PASSWORD": "thinkit",
+    "MONGO_DB": "graphql-article-db"
+  }
+}
